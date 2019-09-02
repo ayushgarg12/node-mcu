@@ -1,4 +1,5 @@
 node mcu is a microcontroller.
 node mcu helps NodeMCU is an open source IoT platform.
 It includes firmware which runs on the ESP8266 Wi-Fi SoC from Espressif Systems,
- and hardware which is based on the ESP-12 module
+ and hardware which is based on the ESP-12 module.
+it is used to iot platform,.
